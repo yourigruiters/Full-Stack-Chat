@@ -2,6 +2,8 @@
 
 Full-stack chat application once created as coding task.
 
+Heroku: https://chat-frontend-yg.herokuapp.com/
+
 ## Description
 
 The task was to create a client and server chat application. I decided to use a custom react setup (not using create-react-app) including TypeScript and Sass which is also available on my GitHub profile.
